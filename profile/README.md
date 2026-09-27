@@ -1,4 +1,9 @@
-The open-source, self-hosted evidence store for coding agents. Evaluate agent work, reuse evidence as context, and build training datasets on your infrastructure.
+```text
+➜ curl sediment.so
+
+The open-source, self-hosted evidence store for coding agents. Evaluate agent
+work, reuse evidence as context, and build training datasets on your
+infrastructure.
 
 Get started:
 
@@ -18,3 +23,4 @@ Get started:
   ███   ▀█████▀  ▀█████▀   ███
   ▀███▄▄▄███▀ ▄▄▄▄███▀ ▄▄▄███▀
     ▀████▀▀  ▀████▀▀  ▀████▀
+```
